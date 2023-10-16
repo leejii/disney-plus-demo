@@ -4,6 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/api/axios.js
+/src/components/Row_1.js
+App.test.js
+firebase.js
 
 # testing
 /coverage
